@@ -4,10 +4,10 @@
 
 # Site
 title: Beyond Universe
-subtitle: ''
-description: ''
+subtitle: '宇宙之外'
+description: 'Beyond Universe Club'
 keywords:
-author: Chris Zhang
+author: Christopher Zhang
 language: zh-CN
 timezone: ''
 
@@ -103,3 +103,17 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+douban:
+  user: 156417244
+  builtin: false
+  movie:
+    title: 'This is my movie title'
+    quote: 'This is my movie quote'
+    meta: true
+    comments: true
+    aside: true
+    path: movies
+    limit:
+  timeout: 10000 
