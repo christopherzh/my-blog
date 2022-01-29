@@ -31,7 +31,6 @@ jobs:
       - name: hexo build
         run: |
           hexo clean
-          hexo douban
           hexo generate
         env:
           CI: true
