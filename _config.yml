@@ -111,7 +111,6 @@ douban:
   movie:
     title: 'Film'
     # quote: 'This is my movie quote'
-    top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
     meta: true
     comments: true
     aside: false
