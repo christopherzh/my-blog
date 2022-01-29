@@ -107,7 +107,7 @@ deploy:
 
 douban:
   user: 156417244
-  builtin: true
+  builtin: fasle
   movie:
     title: 'This is my movie title'
     quote: 'This is my movie quote'
